@@ -15,6 +15,7 @@ function carregPgms(){
         '<li class="open">VEGAS PRO 17<a href="http://download2345.mediafire.com/cxbdpgi9c5pg/3urj7zxdhm1me8r/VEGAS+PRO+17.0.0.284.rar"target="_blank"><span>Download</span></a></li>',
         '<li class="open">AutoCAD 2021 +Crack<a href="progAutoCad2021.rar" target="_blank"><span>Download</span></a></li>',
         '<li class="back">Java Up-281 <a href="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=244068_89d678f2be164786b292527658ca1605" target="_blank"><span>Download</span></a></li>',
+        '<li class="back">Office 2013 pré ativado <a href="https://drive.google.com/u/0/uc?id=1uF7aP3dfrU3S1ffiyiEu7lP4Lb-MqpRx&export=download" target="_blank"><span>Download</span></a></li>',
     ]
     orgProgsOpen.sort()
     progsOpen.innerHTML+=orgProgsOpen
