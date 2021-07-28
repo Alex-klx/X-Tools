@@ -148,7 +148,7 @@ a{
     font-family: -apple-system,Helvetica ,Helvetica,Arial,sans-serif;
     font-weight: bolder;
     color: #33278D;
-    background-color: white;
+    background-color: transparent;
     display: block;
     left: 0;
     width: 100%;
@@ -445,7 +445,7 @@ a{
 
 
 a{
-    color:white;
+    color: white;
 }
 
 button{
@@ -517,7 +517,7 @@ button{
     display: flex;
     position: relative;
     flex-wrap: wrap;
-    background: rgb(209, 209, 209);
+    background: transparent;
     width: 95%;
     margin: 0 auto;
     top: -15px;
